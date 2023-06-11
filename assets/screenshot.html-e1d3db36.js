@@ -1,0 +1,1 @@
+import{_ as l,V as t,W as n,X as e}from"./framework-53aeaa0f.js";const s={},c=e("ul",null,[e("li",null,"移除系统截屏延迟"),e("li",null,"移除截屏隐私限制"),e("li",null,"禁用FLAG_SECURE")],-1),o=[c];function _(r,a){return t(),n("div",null,o)}const u=l(s,[["render",_],["__file","screenshot.html.vue"]]);export{u as default};

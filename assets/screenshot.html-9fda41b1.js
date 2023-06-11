@@ -1,0 +1,1 @@
+import{_ as s,V as t,W as l,X as e}from"./framework-53aeaa0f.js";const n={},o=e("ul",null,[e("li",null,"Remove system screenshot delay"),e("li",null,"Remove screenshot privacy restrictions"),e("li",null,"Disable FLAG SECURE")],-1),c=[o];function r(_,a){return t(),l("div",null,c)}const u=s(n,[["render",r],["__file","screenshot.html.vue"]]);export{u as default};
